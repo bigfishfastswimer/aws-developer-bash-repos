@@ -1,5 +1,6 @@
 #!/bin/bash
 clear
+
 echo "This script will give us my account information"
 
 echo "================================================"
